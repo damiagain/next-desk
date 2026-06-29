@@ -37,10 +37,7 @@ const Footer = () => {
                 NextDesk.ng@gmail.com
               </a>
             </li>
-            <li className="flex items-center gap-2">
-              <Image src="/phone.png" alt="Phone" width={20} height={20} />
-              +234 9065392565
-            </li>
+            
             <li className="flex items-center gap-2">
               <Image src="/locate.png" alt="Location" width={20} height={20} />
               Lagos, Nigeria
